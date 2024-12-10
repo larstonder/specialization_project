@@ -1,1 +1,2 @@
-"# specialization_project" 
+# Specialization project results
+This git repository contains the experimental results of "Extending the nuPlan simulator with novel view synthesis for closed-loop simulation" by Lars Tønder, which was written as part of the subject TDT4506 - Datateknologi, fordypningsemne.
